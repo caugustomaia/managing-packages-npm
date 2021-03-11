@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Carlos Maia",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.17.1"
 	},
