@@ -15,5 +15,6 @@
 		"type": "git",
 		"url": "https://github.com/caugustomaia/managing-packages-npm"
 	},
-	"description": "Learning how to manage packages with npm"
+	"description": "Learning how to manage packages with npm",
+	"keywords": [ "learning", "nodejs", "freecodecamp" ]
 }
