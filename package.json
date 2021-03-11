@@ -3,6 +3,7 @@
 	"author": "Carlos Maia",
 	"version": "1.0.0",
 	"dependencies": {
+		"moment": "2.14.0",
 		"express": "^4.17.1"
 	},
 	"main": "server.js",
